@@ -1,0 +1,6 @@
+@RestApi_Assignment_HostAddress = http://localhost:5075
+
+GET {{RestApi_Assignment_HostAddress}}/CountryAPI/
+Accept: application/json
+
+###
